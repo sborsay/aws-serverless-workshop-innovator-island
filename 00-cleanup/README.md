@@ -61,3 +61,8 @@ To remove and delete resources used by this workshop:
 [sns-console]: https://console.aws.amazon.com/sns/home
 [s3-console]: https://console.aws.amazon.com/s3/home
 
+### 10. DynamoDB
+1. Open the Dynamo Console
+2. Delete DynamoDB Table ride-times-DDBtable
+3. Delete DynamoDB Table theme-park-backend-DynamoDBTable
+
